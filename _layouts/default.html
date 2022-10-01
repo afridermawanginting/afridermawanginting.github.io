@@ -24,7 +24,7 @@ layout: compress
 
     <style>
     
-    /* {% if site.dark-theme == "auto" %}
+    {% if site.dark-theme == "auto" %}
         {% capture scss_sheet %}
             {% include style.scss %}
             @media (prefers-color-scheme: dark) {
@@ -33,9 +33,9 @@ layout: compress
         {% endcapture %}
     {% elsif site.dark-theme %}
         {% capture scss_sheet %}{% include style-dark.scss %}{% endcapture %}
-    {% else %} */
+    {% else %}
         {% capture scss_sheet %}{% include style.scss %}{% endcapture %}
-    /* {% endif %} */
+    {% endif %}
 
     {{ scss_sheet | scssify }}
     </style>
