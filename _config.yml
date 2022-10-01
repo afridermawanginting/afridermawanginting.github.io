@@ -1,6 +1,6 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+name: Afri Dermawan Ginting
+bio: I'm interested in DevOps & Server Engineering
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -37,23 +37,23 @@ disqus:
 #facebook: myfacebook
 #twitter: mytwitter
 instagram: im.frii
-linkedin: https://www.linkedin.com/in/jobsactivity
-github: https://github.com/afridermawanginting
+linkedin: jobsactivity
+github: afridermawanginting
 email: afrimuhsin@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Afri Dermawan Ginting
+    bio: I'm interested in DevOps & Server Engineering
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+  #   twitter: johndoe
+  # jamesfoster:
+  #   name: James Foster
+  #   bio: A Man who develops software with coffee
+  #   external-image: false
+  #   picture: assets/images/james.jpg
+  #   twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
