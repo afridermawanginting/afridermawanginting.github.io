@@ -11,17 +11,17 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
+	<li>Linux Server (CentOS - Ubuntu)</li>
+	<li>Docker</li>
+	<li>Amazon Web Services (AWS), DigitalOcean, Google Cloud Platform</li>
+	<li>Apache - Nginx</li>
+	<li>Amazon EC2, Virtual Private Server (VPS), Hosting</li>
+	<li>Load Balancing (ELB, NGinx)</li>
+	<li>GitHub - Gitlab</li>
+	<li>Monitoring (Grafana, Prometheus, Node Exporter, Zabbix, Nagios)</li>
+	<li>CI/CD (Jenkins, Github Action, Gitlab Runner)</li>
 	<li>HTML</li>
 	<li>Git</li>
 	<li>PHP</li>
 	<li>Scrum</li>
-	<li>Linux Server</li>
-	<li>CentOS - Ubuntu</li>
-	<li>Docker</li>
-	<li>Amazon Web Services (AWS)</li>
-	<li>DigitalOcean</li>
-	<li>Apache - Nginx</li>
-	<li>Amazon EC2</li>
-	<li>Load Balancing</li>
-	<li>GitHub - Gitlab</li>
 </ul>
