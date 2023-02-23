@@ -4,8 +4,9 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hi, I’m @afridermawanginting</p>
-<p>I'm interested in DevOps & Server Engineering</p>
+<p>Hi, I’m Afri Dermawan Ginting, S.Kom</p>
+<p>Saya seorang sarjana lulusan salah satu kampus di Medan, saya seorang Tenaga IT yang tertarik dengan DevOps dan Infrastruktur Server, dengan ketertarikan tersebut mengarahkan diri saya untuk berkerja dan memiliki pengalaman pada bidang DevOps dan Infrastruktur Server.
+</p>
 
 <h2>Skills</h2>
 
@@ -23,14 +24,4 @@ layout: page
 	<li>Amazon EC2</li>
 	<li>Load Balancing</li>
 	<li>GitHub - Gitlab</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://karejo.sumutprov.go.id">Infrastruktur Aplikasi Karejo - BKD PROVSU</a></li>
-	<li><a href="https://simpegbkd.sumutprov.go.id">Infrastruktur Aplikasi Sistem Pelayanan Kepegawaian Tanpa Kertas (PAKET KERAS) - BKD PROVSU</a></li>
-	<li><a href="https://paspro.co.id">Infrastruktur Aplikasi Pasar Property</a></li>
-	<li><a href="https://play.google.com/store/apps/details?id=com.absensi.pasid.saber">Infrastruktur Backend Mobile Saiber Padangsidimpuan</a></li>
-	<li><a href="https://play.google.com/store/apps/details?id=com.karejo_mobile">Infrastruktur Backend Mobile Karejo BKD PROVSU</a></li>
 </ul>
