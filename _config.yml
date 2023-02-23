@@ -18,7 +18,7 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: /https://drive.google.com/file/d/1xwxJ04-qY7gtTWySVdGXGo8fRMnRwVuZ/view?usp=share_link
+resume-url: https://drive.google.com/file/d/1xwxJ04-qY7gtTWySVdGXGo8fRMnRwVuZ/view?usp=share_link
 
 url: https://afridermawanginting.github.io
 # your url: https://USERNAME.github.io
