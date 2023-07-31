@@ -29,6 +29,9 @@ title: Jasa
                 <td>
                     <strong>LEMP Stack</strong>
                 </td>
+                <td>
+                    <strong>Node.js Apps</strong>
+                </td>
               </tr>
               <tr valign="top">
                 <td>
@@ -47,16 +50,6 @@ title: Jasa
                         <li>Biaya: Rp500.000</li>
                     </ul>
                 </td>
-              </tr>
-              <tr>
-                <td>
-                    <strong>Node.js Apps</strong>
-                </td>
-                <td>
-                    <strong>Migrasi Website/Server</strong>
-                </td>
-              </tr>
-              <tr valign="top">
                 <td>
                     <ul>
                         <li>Node.js</li>
@@ -65,20 +58,13 @@ title: Jasa
                         <li>Biaya: Rp1.000.000</li>
                     </ul>
                 </td>
-                <td>
-                    <ul>
-                        <li>Install Server</li>
-                        <li>Backup Data</li>
-                        <li>Transfer Data</li>
-                        <li>Konfigurasi</li>
-                        <li>Restore Data</li>
-                        <li>Biaya: Rp1.000.000</li>
-                    </ul>
-                </td>
               </tr>
               <tr>
                 <td>
                     <strong>Konfigurasi Hosting Control Panel</strong>
+                </td>
+                <td>
+                    <strong>Migrasi Website/Server</strong>
                 </td>
               </tr>
               <tr valign="top">
@@ -90,6 +76,16 @@ title: Jasa
                         <li>Konfigurasi App</li>
                         <li>Create Account</li>
                         <li>Biaya: Rp.500.000</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul>
+                        <li>Install Server</li>
+                        <li>Backup Data</li>
+                        <li>Transfer Data</li>
+                        <li>Konfigurasi</li>
+                        <li>Restore Data</li>
+                        <li>Biaya: Rp1.000.000</li>
                     </ul>
                 </td>
               </tr>
