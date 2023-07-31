@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>Hi, I’m Afri Dermawan Ginting, S.Kom</p>
-<p>Saya seorang sarjana lulusan salah satu kampus di Medan, saya seorang Tenaga IT yang tertarik dengan DevOps dan Infrastruktur Server, dengan ketertarikan tersebut mengarahkan diri saya untuk berkerja dan memiliki pengalaman pada bidang DevOps dan Infrastruktur Server.
+<p>Saya seorang sarjana lulusan salah satu kampus di Medan, saya seorang Tenaga IT yang tertarik dengan DevOps dan Infrastruktur Server, dengan ketertarikan tersebut mengarahkan diri saya untuk berkerja dan memiliki pengalaman pada bidang DevOps dan Infrastruktur Server, dan saya seorang profesional IT yang memiliki keahlian dalam mengelola, mengonfigurasi, dan memelihara sistem operasi Linux.
 </p>
 
 <h2>Skills</h2>
