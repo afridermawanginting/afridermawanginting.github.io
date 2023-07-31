@@ -16,7 +16,7 @@ layout: page
 	<li>Amazon Web Services (AWS), DigitalOcean, Google Cloud Platform</li>
 	<li>Apache - Nginx</li>
 	<li>Amazon EC2, Virtual Private Server (VPS), Hosting</li>
-	<li>Load Balancing (ELB, NGinx)</li>
+	<li>Load Balancing (ELB, NGinx, HaProxy)</li>
 	<li>GitHub - Gitlab</li>
 	<li>Monitoring (Grafana, Prometheus, Node Exporter, Zabbix, Nagios)</li>
 	<li>CI/CD (Jenkins, Github Action, Gitlab Runner)</li>
@@ -24,4 +24,5 @@ layout: page
 	<li>Git</li>
 	<li>PHP</li>
 	<li>Scrum</li>
+	<li>Linux Administration System</li>
 </ul>
