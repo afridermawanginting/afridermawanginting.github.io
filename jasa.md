@@ -20,7 +20,7 @@ title: Jasa
     </div>
 
     <div class="item">
-        <table class="table">
+        <table class="table" cellpadding="10">
             <tbody>
               <tr>
                 <td>
