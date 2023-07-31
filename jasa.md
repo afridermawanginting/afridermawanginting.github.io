@@ -54,6 +54,7 @@ title: Jasa
                     <ul>
                         <li>Node.js</li>
                         <li>PM2</li>
+                        <li>Nginx</li>
                         <li>MySQL/MariaDB/PostgreSQL</li>
                         <li>Biaya: Rp1.000.000</li>
                     </ul>
