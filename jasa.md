@@ -96,7 +96,7 @@ title: Jasa
         <h2 class="title">Kontak</h2>
         <p>Silakan kontak untuk konsultasi dan pemesanan jasa:</p>
         <ul>
-            <li><a href="https://wa.me/6281362920990/?text=Halo!">WhatsApp: 081362920990</a></li>
+            <li><a href="https://wa.me/6281362920990/?text=Halo, Bagaimana kami dapat membantu Anda!">WhatsApp: 081362920990</a></li>
             <li><a href="mailto:afrimuhsin@gmail.com">Email: afrimuhsin@gmail.com</a></li>
         </ul>
     </div>
