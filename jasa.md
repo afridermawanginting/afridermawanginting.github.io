@@ -67,6 +67,9 @@ title: Jasa
                 <td>
                     <strong>Migrasi Website/Server</strong>
                 </td>
+                <td>
+                    <strong>Custom Infrastruktur Server</strong>
+                </td>
               </tr>
               <tr valign="top">
                 <td>
@@ -87,6 +90,15 @@ title: Jasa
                         <li>Konfigurasi</li>
                         <li>Restore Data</li>
                         <li>Biaya: Rp1.000.000</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul>
+                        <li>Load Balancer</li>
+                        <li>App Server</li>
+                        <li>Db Server</li>
+                        <li>Monitoring</li>
+                        <li>Biaya: Silahkan Hubungi Admin</li>
                     </ul>
                 </td>
               </tr>
